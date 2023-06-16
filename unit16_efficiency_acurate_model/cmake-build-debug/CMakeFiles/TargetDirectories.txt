@@ -1,0 +1,8 @@
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/exampleB1.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/B1.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/list_install_components.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/install.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/install/local.dir
+/mnt/hgfs/share/202304/unit16_efficiency_acurate_model/cmake-build-debug/CMakeFiles/install/strip.dir
